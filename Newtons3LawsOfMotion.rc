@@ -1,0 +1,12 @@
+// Newtons3LawsOfMotion - Demonstrates Newton's Three Laws of Motion
+// https://ardeshirv.github.io/Newtons3LawsOfMotion/
+// Copyright© 2002-2004 ArdeshirV@protonmail.com, Licensed under GPLv3+
+
+IDB_BACKGND	BITMAP	"res\\MainBmp.bmp"
+IDB_BALL	BITMAP	"res\\eee.bmp"
+IDB_BALL2	BITMAP	"res\\bbb.bmp"
+IDB_CAR		BITMAP	"res\\ppp.bmp"
+IDS_TICK	SOUND	"res\\Click.wav"
+IDS_SPLASH	SOUND	"res\\Splash.wav"
+IDS_SW		SOUND	"res\\SW.wav"
+IDS_CAR		SOUND	"res\\Car.wav"

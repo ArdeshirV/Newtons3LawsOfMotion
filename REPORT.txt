@@ -1,0 +1,16 @@
+ 
+ 
+The current date is: Mon 08/30/2004 
+Enter the new date: (mm-dd-yy) 
+The current time is: 14:00:37.74
+Enter the new time: 
+Borland Resource Compiler  Version 5.40
+Copyright (c) 1990, 1999 Inprise Corporation.  All rights reserved. 
+
+ 
+The current date is: Thu 02/20/2020 
+Enter the new date: (mm-dd-yy) 
+The current time is: 23:18:18.92
+Enter the new time: 
+Borland Resource Compiler  Version 5.40
+Copyright (c) 1990, 1999 Inprise Corporation.  All rights reserved.
